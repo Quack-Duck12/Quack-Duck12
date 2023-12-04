@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quack-Duck12
 - 👀 I’m interested in Python,Computer Hardware And Anything Else Computer Related In General
-- 🌱 I’m currently learning Python,Assembly
+- 🌱 I’m currently learning Python,Javascript
 - 📫 How to reach me jevismaniyar111@gmail.com
 
 <!---
