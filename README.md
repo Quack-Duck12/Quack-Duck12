@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quack-Duck12
 - 👀 I’m interested in Python, Computer Hardware And Anything Else Computer Related In General
-- 🌱 I’m currently learning The Basic Of Frontend Development
+- 🌱 I’m mastering the basic Of Frontend Development
 - 📫 Reach Out To Me At jevismaniyar111@gmail.com
 
 <!---
